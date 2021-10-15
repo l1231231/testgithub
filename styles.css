@@ -1,0 +1,40 @@
+.main {
+    display: flex;
+}
+
+.left {
+    width: 35%;
+}
+
+.inf {
+    display: flex;
+}
+
+.addr {
+    margin-left: 15px;
+    margin-bottom: 20px;
+}
+
+.infleft {
+    font-size: 20px;
+    margin-left: 20px;
+    color: rgb(116, 115, 113);
+}
+
+.inpform {
+    position: relative;
+}
+
+.inp {
+    width: 100%;
+    margin-top: 20px;
+    height: 30px;
+}
+
+.sub {
+    background-color: rgb(35, 178, 189);
+    border-color: white;
+    color: white;
+    width: 130px;
+    height: 40px;
+}
